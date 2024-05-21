@@ -10,7 +10,7 @@ function Nav_bar() {
             <Navbar collapseOnSelect expand="lg"  variant="dark" className="custom-navbar">
                 <Container>
                     <Navbar.Brand href="#content-1">
-                        <img src='Full-logo-white.png' alt="logo" className='nav-logo'></img>
+                        <img src='Cactus_logo.png' alt="logo" className='nav-logo'></img>
                         Student Bank
                     </Navbar.Brand>
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
